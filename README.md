@@ -22,6 +22,9 @@ Cat program
 Adds two numbers together
 >\>v@R1.@R2.>>^@var["R1"]+var["R2"].
 
+sus
+>$>$>>v$v$<<<<^>vv$><$>$>$<$<<^^^@sus.
+
 ## Current instruction positions
 
 >00 (top left corner): Print (format: @message.)
