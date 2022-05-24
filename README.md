@@ -22,5 +22,22 @@ Cat program
 Adds two numbers together
 >\>v@R1.@R2.>>^@var["R1"]+var["R2"].
 
+## Current instruction positions
+
+00 (top left corner): Print (format: @message.)
+
+01: Set variable (format: @variable_name|variable_contents.)
+
+02: Loop (format: @amount_of_times_to_loop|thing_to_loop.)
+
+03: Arithmetic (format: @sum.)
+(It is worth noting for arithmetic that you can access variables by doing var["variable_name"] because of how it works)
+
+04: Random (format: @start_number|end_number.
+
+10: printing a variable (format: @variable_name.)
+
+11: input (format: @variable_to_store_input_in.)
+
 Can you tell this is my first time using github
 
