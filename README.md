@@ -1,6 +1,8 @@
 # turtlelang
 An esolang where you control a turtle
 ## Usage
+You will need a UTF-8 compatiable terminal in order to use this
+
 Each position the turtle is on has a different function, for example the top left is print
 
 You move the turtle with ^, <, >, and v
