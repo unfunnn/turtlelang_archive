@@ -1,4 +1,4 @@
-# turtlelang
+# turtlelang (OBSELETE)
 An esolang where you control a turtle
 ## Usage
 You will need a UTF-8 compatiable terminal in order to use this
